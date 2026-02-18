@@ -1,7 +1,11 @@
 # SmartMarks: Real-Time Bookmark Manager
 SmartMarks is a high-performance, real-time web application designed to store and manage your favorite links with a focus on speed and privacy. Built with the MERN stack's modern alternatives—Next.js and Supabase—it features seamless Google Authentication and instant database synchronization.
 
-## Live Website Link - https://www.instagram.com/
+<img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/a033789f-e4d4-4d61-b883-6e4ee5b40001" />
+<img width="2560" height="1440" alt="Image" src="https://github.com/user-attachments/assets/6136aad9-af07-42df-aa7c-dfd9c61a390d" />
+
+## Live Website Link 
+- https://www.instagram.com/
 
 ## ✨ Features
 - Google OAuth Integration: Secure one-click login via Supabase Auth.
